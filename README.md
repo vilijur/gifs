@@ -1,5 +1,5 @@
 # Smash gifs
-Hi there! This is a repository of all of my Super Smash Bros. Ultimate gifs that I've made avaiable for easy access.
+This is a repository of all of my Super Smash Bros. Ultimate gifs that I've made avaiable for easy access.
 
 # How to navigate?
 Navigation is quite simple. If you can browse a GitHub repository, you'll be just fine! Don't worry if you can't, just [click here](https://github.com/vilijur/gifs/tree/main/Animations) to go to the folder which contains everything!
