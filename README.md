@@ -9,10 +9,7 @@ That's simple, just browse through the folders until you find the gif you want, 
 
 # Can I request gifs?
 Short answer: no
-Slightly less short answer: I'm not accepting gif requests right now, I have a billion to go through first. Sorry!
+Slightly less short answer: I'm not accepting gif requests.
 
-# When do you upload a gif?
-Usually a few minutes after the request is completed.
-
-# My question isn't answered here!
-Oh? Feel free to shoot a question my way. You can do so on GitHub or on [Twitter](https://twitter.com/vilijur) (or on Discord if you have me added there already). Just don't ask me about how to use GitHub, that's something for you to search up.
+# Will you make any more gifs?
+No, this remains as a public archive of the few gifs I did make
